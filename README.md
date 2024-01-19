@@ -1,1 +1,1 @@
-# Jogo-Memoria-Emojis
+# Jogo da Memoria utilizando Emojis
